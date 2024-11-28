@@ -6,7 +6,6 @@ Tech Explorer: I thrive on experimenting with new technologies, frameworks, and 
 Problem-Solving Enthusiast: I love tackling LeetCode challenges (even the hard ones!) and sharpening my algorithms and data structures knowledge.
 Creative Coder: Currently working on PhishGuard, a Chrome extension powered by Redis, MongoDB, and a Node.js server, designed to enhance web security.
 Team Agile: Exploring and applying Agile methodologies to streamline development and collaboration.
-Tech for Good: Inspired by my grandfather's opera legacy, I’m exploring tech to restore audio quality from vintage recordings.
 
 🧩 What I’m Working On
 A growing repository of LeetCode solutions 🧠
@@ -15,7 +14,6 @@ Personal portfolio website to showcase my skills and projects.
 Building a solid foundation for an entry-level tech job while juggling freelance work and daily challenges.
 
 🎯 My Goals
-Solve at least one LeetCode question a day.
 Land an entry-level software development position in a company where I can learn and grow.
 Collaborate with other tech enthusiasts on open-source projects.
 📫 How to Reach Me
